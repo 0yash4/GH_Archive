@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+gh_archive.egg-info/PKG-INFO
+gh_archive.egg-info/SOURCES.txt
+gh_archive.egg-info/dependency_links.txt
+gh_archive.egg-info/requires.txt
+gh_archive.egg-info/top_level.txt
